@@ -1,7 +1,7 @@
 import java.time.LocalTime;
 import java.util.ArrayList;
 import java.time.Duration;
-//jjjjjjjj
+
 public class Race {
     static int ID = 1;
     int objectID;
